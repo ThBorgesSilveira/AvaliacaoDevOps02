@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Wiki de Projetos - Faculdade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #005baa;
+      color: white;
+      padding: 15px;
+      border-radius: 5px;
+    }
+    h1 {
+      margin: 0;
+    }
+    section {
+      margin-top: 20px;
+      padding: 15px;
+      background: white;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #005baa;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Wiki de Projetos de Curso</h1>
+    <p>Faculdade Exemplo - Ciência da Computação</p>
+  </header>
+
+  <section>
+    <h2>📌 Introdução</h2>
+    <p>Este site reúne os principais projetos desenvolvidos pelos alunos ao longo do curso. É um repositório colaborativo de ideias, soluções e inovações.</p>
+  </section>
+
+  <section>
+    <h2>💻 Projetos por Semestre</h2>
+
+    <h3>1º Semestre</h3>
+    <ul>
+      <li>Sistema de Cadastro de Alunos (HTML, CSS, JS)</li>
+      <li>Jogo da Velha em Python</li>
+    </ul>
+
+    <h3>2º Semestre</h3>
+    <ul>
+      <li>Site de Receitas Colaborativo</li>
+      <li>Controle de Estoque com Banco de Dados</li>
+    </ul>
+
+    <h3>3º Semestre</h3>
+    <ul>
+      <li>Aplicativo ToDo List (React)</li>
+      <li>API RESTful de Livros (Node.js)</li>
+    </ul>
+
+    <!-- Você pode seguir esse padrão para os outros semestres -->
+  </section>
+
+  <section>
+    <h2>📚 Recursos Úteis</h2>
+    <ul>
+      <li><a href="#">GitHub da Turma</a></li>
+      <li><a href="#">Documentação dos Projetos</a></li>
+      <li><a href="#">Tutoriais e Dicas</a></li>
+    </ul>
+  </section>
+
+</body>
+</html>
